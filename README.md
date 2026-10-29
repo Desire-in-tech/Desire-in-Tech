@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Desire 👋
 
-<!--
-**Desire-in-tech/Desire-in-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about building practical solutions through backend and full-stack development, APIs, AI agents, automation, and machine learning.
 
-Here are some ideas to get you started:
+I turn ideas into functional applications and continuously learn by building, testing, and improving real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I focus on
+- Backend and full-stack development
+- APIs and system integrations
+- AI agents and automation
+- Machine learning and practical data-driven solutions
+- Turning ideas into working, real-world applications
+
+## My approach
+I enjoy building useful software, testing it in real scenarios, and improving it through iteration and learning.
