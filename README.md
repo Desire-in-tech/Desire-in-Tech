@@ -1,10 +1,12 @@
 # Hi, I'm Desire
 
+![Banner](https://res.cloudinary.com/f7ko7ayw/image/upload/v1793351052/Screenshot_2026-10-30_115641_k6musi.png)
+
 ### Software Engineer | Backend & Full-Stack Development | AI Agents & Automation
 
-I'm a software developer passionate about building practical software that solves real-world problems. I enjoy working across the stack, designing APIs and backend systems, integrating AI capabilities, and turning ideas into functional applications.
+I'm a software developer passionate about building practical software that solves real-world problems. I enjoy working across the stack, designing APIs and backend systems, integrating AI capabilities, and delivering reliable solutions.
 
-My interests span **backend engineering, full-stack development, frontend engineering, AI agents, intelligent automation, machine learning, and data-driven applications**. I value clean code, thoughtful architecture, continuous learning, and building projects that demonstrate real technical skills.
+My interests span **backend engineering, full-stack development, frontend engineering, AI agents, intelligent automation, machine learning, and data-driven applications**. I value clean code, thoughtful architecture, and solving real user problems through technology.
 
 Open to remote opportunities, internships, and collaborations in software engineering, backend development, API engineering, AI automation, and data-focused engineering.
 
@@ -140,4 +142,4 @@ For professional enquiries and collaboration opportunities, feel free to connect
 
 I'm particularly interested in opportunities where I can contribute to real software products, learn from experienced engineers, and build systems that make a measurable difference.
 
-**Thanks for visiting my profile! Let's build something useful.**&#x20;
+**Thanks for visiting my profile! Let's build something useful.** 
