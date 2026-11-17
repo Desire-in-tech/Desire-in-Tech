@@ -4,9 +4,9 @@
 
 ### Software Engineer | Backend & Full-Stack Development | AI Agents & Automation
 
-I'm a software developer passionate about building practical software that solves real-world problems. I enjoy working across the stack, designing APIs and backend systems, integrating AI capabilities, and delivering reliable solutions.
+I'm a software developer passionate about building practical software that solves real-world problems. I enjoy working across the stack, designing APIs and backend systems, integrating AI capabilities, and turning ideas into functional applications.
 
-My interests span **backend engineering, full-stack development, frontend engineering, AI agents, intelligent automation, machine learning, and data-driven applications**. I value clean code, thoughtful architecture, and solving real user problems through technology.
+My interests span **backend engineering, full-stack development, frontend engineering, AI agents, intelligent automation, machine learning, and data-driven applications**. I value clean code, thoughtful architecture, and continuous learning through hands-on projects.
 
 Open to remote opportunities, internships, and collaborations in software engineering, backend development, API engineering, AI automation, and data-focused engineering.
 
@@ -123,7 +123,7 @@ A collection of projects exploring predictive modelling, customer analytics, nat
 
 ## Find Me Online
 
-- **Portfolio:** [desire-djh.pages.dev](https://desire-djh.pages.dev/)
+- **Portfolio:** [desireedev.site](https://desireedev.site)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/desire-e-92935a363/)
 - **GitHub:** [Explore my repositories](https://github.com/Desire-in-tech)
 
